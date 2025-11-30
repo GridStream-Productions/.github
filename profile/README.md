@@ -18,6 +18,7 @@ This GitHub organization hosts the source code for various tools and projects th
 
 ## Learn More
 
-- **Website**: [www.gridstream.org](https://www.gridstream.org/)
+- **Website**: [www.gridstream.org](http://www.gridstream.org/)
 - **History**: [Our Story](http://www.gridstream.org/gsp/cms/about/history/)
 - **FAQ**: [About GridStream](http://www.gridstream.org/gsp/cms/about/faq/)
+- **Radio Streams**: [player.gridstream.org](http://player.gridstream.org/)
